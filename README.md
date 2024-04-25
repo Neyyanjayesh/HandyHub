@@ -1,8 +1,8 @@
-# HandyHub Home Services
-Welcome to HandyHub Home Services! We are a one-stop solution for all your home service needs in the Hyderabad area. Whether you need plumbing, electrical, carpentry, or any other home service, we've got you covered.
+# QuickFix Home Services
+Welcome to QuickFix Home Services! We are a one-stop solution for all your home service needs in the Hyderabad area. Whether you need plumbing, electrical, carpentry, or any other home service, we've got you covered.
 
 ## About Us
-At HandyHub, we understand the importance of a well-maintained home. Our team of skilled professionals is dedicated to providing top-notch services with a commitment to quality and customer satisfaction.
+At QuickFix, we understand the importance of a well-maintained home. Our team of skilled professionals is dedicated to providing top-notch services with a commitment to quality and customer satisfaction.
 
 ## Services Offered
 
@@ -30,6 +30,6 @@ At HandyHub, we understand the importance of a well-maintained home. Our team of
 Have questions or need assistance? Don't hesitate to reach out to us:
 
 ## Phone: ####
-### Email: HandyHubHomeServices@gmail.com
-### Website: HandyHubHomeServices.com
+### Email: QuickFixHomeServices@gmail.com
+### Website: QuickFixHomeServices.com
 Follow us on Facebook and Twitter for updates and promotions!
